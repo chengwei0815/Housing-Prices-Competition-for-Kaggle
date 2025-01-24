@@ -37,3 +37,5 @@ sample_submission.csv
 
 ## References:
 **Data Analyst Roadmap**: https://roadmap.sh/data-analyst
+
+**fast.ai—Making neural nets uncool again**:https://www.fast.ai/
