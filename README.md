@@ -27,3 +27,5 @@ sample_submission.csv
 
 **Visualize the data** (e.g. histograms, box plots, scatter plots): Attain insights into data distributions and relationships
 
+## References:
+**Data Analyst Roadmap**: https://roadmap.sh/data-analyst
