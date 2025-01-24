@@ -18,6 +18,8 @@ data_description.txt
 
 sample_submission.csv
 
+<img width="781" alt="Screenshot 2025-01-23 at 11 09 54 PM" src="https://github.com/user-attachments/assets/174398ce-586e-4999-90e2-eeb3637570ba" />
+
 
 <img width="445" alt="Screenshot 2025-01-23 at 8 59 16 PM" src="https://github.com/user-attachments/assets/525cb109-5938-43ab-8a2f-721835e7b087" />
 
@@ -25,7 +27,13 @@ sample_submission.csv
 
 **Perform basic data exploration**: Checking data types, null values, etc.
 
+<img width="597" alt="Screenshot 2025-01-23 at 11 15 06 PM" src="https://github.com/user-attachments/assets/538f6a7f-810d-4756-9f3d-36cd76d30a0f" />
+
 **Visualize the data** (e.g. histograms, box plots, scatter plots): Attain insights into data distributions and relationships
+
+<img width="775" alt="Screenshot 2025-01-23 at 11 19 11 PM" src="https://github.com/user-attachments/assets/ee1167dd-df70-4177-bfae-be161365b9c1" />
+<img width="755" alt="Screenshot 2025-01-23 at 11 19 39 PM" src="https://github.com/user-attachments/assets/e0d8c975-5962-40cf-8f41-b0474bed6cc2" />
+<img width="585" alt="Screenshot 2025-01-23 at 11 19 50 PM" src="https://github.com/user-attachments/assets/e4ce7423-bd60-452d-8c6e-17ee9539e9e4" />
 
 ## References:
 **Data Analyst Roadmap**: https://roadmap.sh/data-analyst
