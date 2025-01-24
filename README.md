@@ -1,5 +1,7 @@
 # Housing-Prices-Competition-for-Kaggle
 
+Link for the kaggle competition: https://www.kaggle.com/competitions/home-data-for-ml-course
+
 #### Problem Statement 
 Goal: Predict the sales price for each house given a number of nominal, ordinal, discrete, and continuous descriptors (79 total)
 
